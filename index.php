@@ -7,7 +7,7 @@
 /**
  * @file plugins/generic/REDIB/index.php
  *
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * Distributed under the GNU GPL v2. For full terms see the file LICENSE.txt
  *
  * @ingroup plugins_generic_REDIB
  * @brief Wrapper for REDIB plugin.
